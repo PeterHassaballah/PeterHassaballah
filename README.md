@@ -1,7 +1,6 @@
-### Hi there 👋
-
-## Peter Hassaballah
-# Info
+# Peter Hassaballah
+#### أهلاً 👋
+### Info
 
 - 🔭 I’m currently working on a MERN stack web app
 - 🌱 I’m currently learning Data Enginnering
