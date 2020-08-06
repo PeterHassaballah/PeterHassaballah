@@ -14,6 +14,7 @@
 <a href="https://twitter.com/@peter2882" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@peter2882" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/peter-hassaballah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="peter-hassaballah" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/7219733" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7219733" height="30" width="30" /></a>
+<a href="https://kaggle.com/peterhassaballah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="peterhassaballah" height="30" width="30" /></a>
 <a href="https://www.behance.net/peterhassaballah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="peterhassaballah" height="30" width="30" /></a>
 </p>
 
