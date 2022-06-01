@@ -1,7 +1,7 @@
 # Peter Hassaballah
 #### أهلاً 👋
-
-<h3 align="center">A musician who has multiple area of interests in Digital Media Engineering technology and all its aspects. A junior researcher at the German University in Cairo (GUC) . I am passionate about music, cars and art</h3>
+<h2> Software Engineer /(Aspiring) Project Manager </h2>
+<h3 align="center">A musician who has multiple area of interests in Digital Media Engineering technology and all its aspects. A junior researcher at the German University in Cairo (GUC) . I am passionate about music, art and data privacy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterhassaballah" alt="peterhassaballah" /> </p>
 
