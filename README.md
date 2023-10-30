@@ -1,8 +1,12 @@
 # Peter Hassaballah
 #### أهلاً 👋
-<h2> Software Engineer / (Aspiring) Project Manager </h2>
+<h2> Software Engineer </h2>
 <h3 align="center">A musician who has multiple area of interests in Digital Media Engineering technology and all its aspects. A junior researcher at the German University in Cairo (GUC) . I am passionate about music, art and data privacy</h3>
-
+## History
+<p>A software engineer (JS, Python, Java) experienced in working with international teams and clients, seeking a new challenge to become a
+Project Manager
+I previously worked as Full stack and cross platform app developer with 4+ years of experience in Javascript .
+I worked on multiple freelance projects for clients in Netherlands, UK and US. </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterhassaballah" alt="peterhassaballah" /> </p>
 
 - 👨‍💻 All of my projects are available at [peter-hassaballah.netlify.app](peter-hassaballah.netlify.app)
@@ -42,5 +46,5 @@
 ### Info
 
 - :computer: Full stack / App / Game Developer
-- :clipboard: Intrested in Data Enginnering
+- :clipboard: Intrested in Data Enginnering, FinTech, Food and beverage industries
 - ⚡ Fun fact: I don't `ls` after I `cd`
