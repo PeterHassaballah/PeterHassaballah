@@ -2,6 +2,7 @@
 #### أهلاً 👋
 <h2> Software Engineer </h2>
 <h3 align="center">A musician who has multiple area of interests in Digital Media Engineering technology and all its aspects. A junior researcher at the German University in Cairo (GUC) . I am passionate about music, art and data privacy</h3>
+
 ## History
 <p>A software engineer (JS, Python, Java) experienced in working with international teams and clients, seeking a new challenge to become a
 Project Manager
