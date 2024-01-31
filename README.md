@@ -6,7 +6,7 @@
 ## History
 <p>A software engineer (JS, Python, Java) experienced in working with international teams and clients, seeking a new challenge to become a
 Project Manager
-I previously worked as Full stack and cross platform app developer with 4+ years of experience in Javascript .
+I previously worked as Full stack and cross platform app developer with 6+ years of experience in Javascript .
 I worked on multiple freelance projects for clients in Netherlands, UK and US. </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterhassaballah" alt="peterhassaballah" /> </p>
 
